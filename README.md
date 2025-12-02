@@ -1,2 +1,3 @@
 # optrade
 websites
+<h1>Hamza, CEO of Computer Inc., represents a new generation of visionary tech leadership. Young yet astute, he guides the company not merely with business acumen, but with a deep passion for innovation and user-centric design. Under his direction, the company has shifted from hardware manufacturing to pioneering integrated ecosystems of software and services, anticipating market trends with agility. His leadership style fosters a culture of creativity and calculated risk-taking, empowering teams to develop cutting-edge solutions. For Hamza, being CEO is about shaping the future of how people interact with technology, making it more intuitive, powerful, and accessible for everyone.</h1>
